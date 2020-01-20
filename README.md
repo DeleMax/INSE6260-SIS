@@ -1,0 +1,2 @@
+# INSE6260-SIS
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8dd0b2fed9364d6aa1635cc6c22be797)](https://app.codacy.com/manual/bamideleajayi02/INSE6260-SIS?utm_source=github.com&utm_medium=referral&utm_content=DeleMax/INSE6260-SIS&utm_campaign=Badge_Grade_Dashboard)
